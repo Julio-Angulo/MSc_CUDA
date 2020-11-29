@@ -1,5 +1,5 @@
 # MSc_CUDA
-This repository contains all CUDA C codes written during my MSc. Next, there is a brief description about what each code do. Further information about results, parallelization techniques, and data dependence theory found [**here**](https://www.researchgate.net/profile/Julio_Angulo_Rios/publication/316692653_A_GPU-Based_Implementation_of_the_Input_andor_Output_Pruning_of_Composite_Length_FFTs_Using_a_DIF-DIT_Transform_Decomposition/links/590cd2d0aca2722d185c131c/A-GPU-Based-Implementation-of-the-Input-and-or-Output-Pruning-of-Composite-Length-FFTs-Using-a-DIF-DIT-Transform-Decomposition.pdf).
+This repository contains all CUDA C codes written during my MSc. Next, there is a brief description of what each code does. Further information about results, parallelization techniques, and data dependence theory found [**here**](https://www.researchgate.net/profile/Julio_Angulo_Rios/publication/316692653_A_GPU-Based_Implementation_of_the_Input_andor_Output_Pruning_of_Composite_Length_FFTs_Using_a_DIF-DIT_Transform_Decomposition/links/590cd2d0aca2722d185c131c/A-GPU-Based-Implementation-of-the-Input-and-or-Output-Pruning-of-Composite-Length-FFTs-Using-a-DIF-DIT-Transform-Decomposition.pdf).
 
 
 | #| NAME| DESCRIPTION|
